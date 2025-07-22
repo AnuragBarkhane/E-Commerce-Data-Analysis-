@@ -2,8 +2,6 @@
 
 ## About Dataset
 ## Dataset link:- https://www.kaggle.com/datasets/benroshan/ecommerce-data
-## tableau project link :- https://public.tableau.com/app/profile/gundala.manish/viz/SalesTarget_16584747992370/Dashboard1
-## my profile in tableau link:- https://public.tableau.com/app/profile/gundala.manish
 ### Hello
 Ever been excited to see a sales dataset ? Well, this data is perfectly curated to perform sales analysis. We have an e-commerce sales dataset from India with 3 csv files -List of Orders, Order details, Sales target
 
