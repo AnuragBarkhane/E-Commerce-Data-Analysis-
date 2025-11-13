@@ -13,5 +13,4 @@ This dataset contains order ID, with the order price, quantity,profit, category 
 #### Sales target-
 This dataset contains sales target amount and date for each product category
 
-### Acknowledgements
-Dataset received from my University, Original Author unknown
+
